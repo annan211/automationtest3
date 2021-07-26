@@ -1,0 +1,7 @@
+server:
+  url :
+    user: https://glory-sit-go02.id.aiaazure.biz/userservice_sit/
+    channel: https://glory-sit-go02.id.aiaazure.biz/channeladminservice_sit/
+  auth:
+    username: ASNPI6D
+    password: NTCLi/MkA+JlIuU3akpn8x+/ioGF/P8bIRipAkAildjER1wHiIGwd9DS9WF0MJgt3RhvEZPOcc9Y9dZ1ZgerWcshXzj7psE+ABYiHxKZBbQeQgBLi4iI1W+jl493GCJnqGy+NkogGhRLEH/+f9h1JCVxb4vB7ejhFxN5hFU7+Zo=
